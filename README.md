@@ -57,3 +57,10 @@ Sei que existem formas mais avançadas e organizadas de construir esse projeto, 
 Além do conteúdo sobre programação, este projeto também está me ajudando a desenvolver habilidades importantes como organização de código, criação de métodos, tratamento de entradas do usuário, lógica de programação e planejamento de projetos maiores.
 
 Pretendo continuar expandindo o quiz com novas perguntas, melhorias visuais no terminal e um sistema de pontuação mais completo conforme meu conhecimento em Java evoluir.
+
+
+
+# tudo elaborado por mim, sem ferramentas...
+
+
+
