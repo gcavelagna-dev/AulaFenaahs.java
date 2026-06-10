@@ -47,7 +47,6 @@ Ao término, verifique sua quantidade de acertos.
 
 # Notas sobre o projeto
 
-Este projeto surgiu como uma forma de praticar Java enquanto desenvolvo algo útil para outros alunos que estão começando seus estudos em programação.
 
 A ideia é criar um pequeno quiz executado pelo terminal, abordando conceitos básicos de HTML, CSS, JavaScript e Java. O foco não é apenas acertar perguntas, mas também aprender com os erros através das explicações apresentadas após cada resposta.
 
