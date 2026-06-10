@@ -12,7 +12,7 @@ Abra o projeto em sua IDE de preferência.
 Localize o arquivo principal do projeto.
 Execute a classe principal contendo o método main.
 O quiz será iniciado diretamente pelo terminal.
-Observações
+# Observações
 Todas as respostas devem ser digitadas utilizando os números das alternativas apresentadas.
 Caso seja digitada uma opção inexistente, o sistema solicitará uma nova entrada.
 O projeto foi desenvolvido com foco educacional e prática dos fundamentos da linguagem Java.
